@@ -1,0 +1,22 @@
+{
+  "name": "shahzain-lab",
+  "version": "1.0.0",
+  "description": "profile markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahzain-lab/shahzain-lab.git"
+  },
+  "author": "shahzain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahzain-lab/shahzain-lab/issues"
+  },
+  "homepage": "https://github.com/shahzain-lab/shahzain-lab#readme",
+  "dependencies": {
+    "markdown-magic": "^2.5.2"
+  }
+}
