@@ -1,10 +1,12 @@
-## Hi there 👋, It's **Shahzain**
-##### Front-end Developer | Reactjs | UI-designer
+
+<h2>Hi there 👋, It's <b>Shahzain</b>
+  <h4>Front-end Developer | Reactjs | UI-designer</h4>
+</h2>
 
 I'm Web developer thats aim to build web-applications with state-of-the-art technologies.I love to exploring new tech stack💻 and leveraging them to build cool stuffs 🛠️.
-<img align="right" width="200" height="200" src="./software-developer.png">
+<img align="right" width="250" height="250" src="./software-developer.png">
 ## 🧐 Talking about Personal Stuffs::
-- 🔭 I’m currently working building portfolio project.
+- 🔭 I’m currently working on building portfolio project.
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on [archive-program](https://archiveprogram.github.com/).
 - 👨🏻‍💻   Most of my projects are available on [Github](https://github.com/shahzain-lab).
