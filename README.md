@@ -1,7 +1,6 @@
+## Hi there 👋, It's **Shahzain**
+ #### `Front-end Developer` | `Reactjs` | `UI-designer`
 
-<h2>Hi there 👋, It's <b>Shahzain</b>
-  <h4>Front-end Developer | Reactjs | UI-designer</h4>
-</h2>
 
 I'm Web developer thats aim to build web-applications with state-of-the-art technologies.I love to exploring new tech stack💻 and leveraging them to build cool stuffs 🛠️.
 <img align="right" width="250" height="250" src="./software-developer.png">
@@ -68,3 +67,5 @@ I'm Web developer thats aim to build web-applications with state-of-the-art tech
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzain-lab&" alt="shahzain-lab" />
 </details>
+
+<h1 />
