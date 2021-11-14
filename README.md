@@ -48,7 +48,7 @@ I'm Web developer thats aim to build web-applications with state-of-the-art tech
 
 <br>
 
-### 🛠️ Projects and Dev Stuffs:
+## 🛠️ Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -66,3 +66,7 @@ I'm Web developer thats aim to build web-applications with state-of-the-art tech
 </details>
 
 <h1 />
+
+<h2 align="left">Connect with me:</h2>
+<br />
+<p><a href="https://www.twitter.com/its_shahzain"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://linkedin.com/in/syed-zainulabideen009900/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
