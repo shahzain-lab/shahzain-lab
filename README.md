@@ -2,7 +2,7 @@
 
 #### `Front-end Developer` | `Reactjs` | `UI-designer`
 
-I'm Web developer thats aim to build web-applications with state-of-the-art technologies.I love to exploring new tech stack💻 and leveraging them to build cool stuffs 🛠️.
+I love to exploring new tech stack💻 and leveraging them to build cool stuffs 🛠️.
 <img align="right" width="250" height="250" src="./software-developer.png">
 
 ## 🧐 Talking about Personal Stuffs::
