@@ -1,6 +1,6 @@
 ## Hi there 👋, It's **Shahzain**
 
-#### `Front-end Developer` | `Reactjs` | `UI-designer`
+#### `full-stack Developer` | `Nextjs` | `AWS`
 
 I love to exploring new tech stack💻 and leveraging them to build cool stuffs 🛠️.
 <img align="right" width="250" height="250" src="./software-developer.png">
