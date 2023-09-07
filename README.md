@@ -7,7 +7,8 @@ I love exploring new tech stacks ðŸ’» and leveraging them to build cool stuff ðŸ
 
 <h1 />
   <details>
- ### I am a highly skilled and experienced frontend developer, specializing in Next.js, AWS Amplify, and TypeScript. With a passion for creating exceptional user experiences and a strong background in web development, I take pride in delivering high-quality solutions that exceed expectations.
+ I am a highly skilled and experienced frontend developer, specializing in Next.js, AWS Amplify, and TypeScript. With a passion for creating exceptional user experiences and a strong background in web 
+     development, I take pride in delivering high-quality solutions that exceed expectations.
 
 Next.js Expertise: As a seasoned Next.js developer, I have successfully built numerous web applications using this powerful framework. From simple landing pages to complex, data-driven applications, I can handle it all.
 
